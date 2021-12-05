@@ -3,14 +3,12 @@
 
 https://adventofcode.com/
 
-Using https://github.com/tjmahr/aoc for setup. 
-
 Still can't get the cookie thing to work...
 
 - [x] day01 **
 - [x] day02 **
 - [x] day03 **
-- [ ] day04 
+- [x] day04 **
 - [ ] day05 
 - [ ] day06 
 - [ ] day07 
